@@ -1,0 +1,2 @@
+string = "qwertyuiopasdfghjkl"
+printNow(string[len(string):(len(string)/2):-1])
