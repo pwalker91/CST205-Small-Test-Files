@@ -1,0 +1,2 @@
+def checkPalin(string):
+    return string==string[::-1]
